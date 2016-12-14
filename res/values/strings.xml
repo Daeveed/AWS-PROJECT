@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="action_settings">Settings</string>
+    <string name="menuitem_edit">Edit</string>
+    <string name="menuitem_delete">Delete</string>
+    <string name="hint_name_required">Name (Required)</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_street">Street</string>
+    <string name="hint_city">City</string>
+    <string name="hint_state">State</string>
+    <string name="hint_zip">Zip</string>
+    <string name="label_name">Name:</string>
+    <string name="label_email">E-mail:</string>
+    <string name="label_phone">Phone:</string>
+    <string name="label_street">Street:</string>
+    <string name="label_city">City:</string>
+    <string name="label_state">State:</string>
+    <string name="label_zip">Zip:</string>
+    <string name="confirm_title">Are You Sure?</string>
+    <string name="confirm_message">This will permanently delete the contact</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_delete">Delete</string>
+    <string name="contact_added">Contact Added Successfully</string>
+    <string name="contact_not_added">Contact Was Not Added Due To An Error</string>
+    <string name="contact_updated">Contact Updated</string>
+    <string name="contact_not_updated">Contact Was Not Updated Due To An Error</string>
+    <string name="invalid_query_uri">Invalid Query Uri:</string>
+    <string name="invalid_insert_uri">Invalid Insert Uri:</string>
+    <string name="invalid_update_uri">Invalid Update Uri:</string>
+    <string name="invalid_delete_uri">Invalid Delete Uri:</string>
+    <string name="insert_failed">Insert Failed: s</string>
+</resources>
